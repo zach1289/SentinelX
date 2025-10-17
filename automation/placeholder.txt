@@ -1,0 +1,2 @@
+# Automation Folder
+Holds n8n workflows, Python scripts, and webhook payloads
