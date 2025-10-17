@@ -1,0 +1,2 @@
+# Detection Rules Folder
+This folder will store Suricata, Snort, and Wazuh rule files.
