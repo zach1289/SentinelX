@@ -1,0 +1,2 @@
+# Splunk Folder
+Contains dashboard, saved searches, and alert queries.
